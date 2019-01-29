@@ -28,14 +28,14 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>S1-Advisory-Conditions/CONTRIBUTING.md at master · SentryOne-GitHub/S1-Advisory-Conditions</title>
-    <meta name="description" content="This is a repository containing the SentryOne published Advisory Conditions as well as community submitted conditions for the SentryOne platform. - SentryOne-GitHub/S1-Advisory-Conditions">
+  <title>advisory-conditions/CONTRIBUTING.md at master · sentryone/advisory-conditions</title>
+    <meta name="description" content="This is a repository containing the SentryOne published Advisory Conditions as well as community submitted conditions for the SentryOne platform. - sentryone/advisory-conditions">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
 
     
-    <meta property="og:image" content="https://avatars3.githubusercontent.com/u/40397722?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="SentryOne-GitHub/S1-Advisory-Conditions" /><meta property="og:url" content="https://github.com/SentryOne-GitHub/S1-Advisory-Conditions" /><meta property="og:description" content="This is a repository containing the SentryOne published Advisory Conditions as well as community submitted conditions for the SentryOne platform. - SentryOne-GitHub/S1-Advisory-Conditions" />
+    <meta property="og:image" content="https://avatars3.githubusercontent.com/u/40397722?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="sentryone/advisory-conditions" /><meta property="og:url" content="https://github.com/sentryone/advisory-conditions" /><meta property="og:description" content="This is a repository containing the SentryOne published Advisory Conditions as well as community submitted conditions for the SentryOne platform. - sentryone/advisory-conditions" />
 
   <link rel="assets" href="https://github.githubassets.com/">
   <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MzY3NzUxMDQ4OmFiMWFiNjIzMGZmMTMyNTMwNDc3NGZhYzI1MTY1M2EyMjRmMTQ3MTM4NTg2MjJmOWVlZDExMzUyNjAzNzUwNDI=--cbde3743b49bbfb5f8438c15c4ecbe5abb1d3d9d">
@@ -140,7 +140,7 @@
   aria-expanded="false"
 >
   <div class="position-relative">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" data-scope-type="Repository" data-scope-id="139021264" data-scoped-search-url="/SentryOne-GitHub/S1-Advisory-Conditions/search" data-unscoped-search-url="/search" action="/SentryOne-GitHub/S1-Advisory-Conditions/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" data-scope-type="Repository" data-scope-id="139021264" data-scoped-search-url="/sentryone/advisory-conditions/search" data-unscoped-search-url="/search" action="/SentryOne-GitHub/S1-Advisory-Conditions/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
       <label class="form-control header-search-wrapper header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center js-chromeless-input-container">
         <input type="text"
           class="form-control header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable"
