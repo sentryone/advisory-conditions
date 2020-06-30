@@ -1,6 +1,10 @@
 # Advisory-conditions
 
-Contains SentryOne published Advisory Conditions as well as community submitted conditions for the SentryOne platform.
+Contains SentryOne published Advisory Conditions as well as team submitted conditions for the SentryOne platform.
+
+https://docs.sentryone.com/help/github-advisory-conditions
+
+https://docs.sentryone.com/help/advisory-conditions-pack
 
 ## Descriptions
 
