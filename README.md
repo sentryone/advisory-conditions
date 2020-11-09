@@ -9,3 +9,7 @@ https://docs.sentryone.com/help/advisory-conditions-pack
 ## Descriptions
 
 Descriptions for pack conditions and community submitted conditions can be found in the [Descriptions Markdown File](Descriptions.md)
+
+### Community-Submitted
+
+Conditions in this directory come from members of the SentryOne Community (customers, partners, etc.).
