@@ -12,4 +12,4 @@ Descriptions for pack conditions and community submitted conditions can be found
 
 ### Community-Submitted
 
-Conditions in this directory come from members of the SentryOne Community (customers, partners, etc.).
+Conditions in this directory come from members of the SentryOne Community (customers, partners, etc.). They are not documented in SentryOne Docs.
